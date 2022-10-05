@@ -6,6 +6,6 @@ class Ex2_12 {
 		System.out.println('3' - '0' + 1);
 		System.out.println(Integer.parseInt("3") + 1);
 		System.out.println("3" + 1);
-		System.out.println(3 + '0');   // '0'Àº ¼ıÀÚ·Î 48
+		System.out.println(3 + '0');   // 0ì€ ì•„ìŠ¤í‚¤ì½”ë“œì—ì„œ 48ì´ë‹¤.
 	}
 }
