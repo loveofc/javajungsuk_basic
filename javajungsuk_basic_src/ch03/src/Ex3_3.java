@@ -1,8 +1,8 @@
 class Ex3_3 {
 	public static void main(String args[]) {
 		int i=5, j=5;
-		System.out.println(i++);  // iÀÇ °ªÀ» Ãâ·Â ÈÄ, 1 Áõ°¡
-		System.out.println(++j);  // jÀÇ °ªÀ» 1 Áõ°¡ ÈÄ, Ãâ·Â
+		System.out.println(i++);  // iì˜ ê°’ì„ ì¶œë ¥ í›„, 1 ì¦ê°€
+		System.out.println(++j);  // jì˜ ê°’ì„ 1 ì¦ê°€ í›„, ì¶œë ¥
 		System.out.println("i = " + i + ", j = " +j);
 	}
 }
